@@ -1,0 +1,48 @@
+/* add your CSS here */
+.card{
+  font-family: "cursive", sans-serif;
+  border-style: solid;
+  border-width: thin;
+  border-color: Black;
+  box-sizing: border-box;
+  width: 335px;
+  padding: 1em;
+  box-shadow: 5px 4px Black;
+  background-color: rgba(20,150,255,0.2);
+
+}
+.title {
+  font-size: 20pt;
+  text-align: center;
+  border-style: solid;
+  width: 4em;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+
+}
+img{
+  width: 300px;
+  height: 200px;
+  box-sizing: border-box;
+  margin: 2% 0;
+
+}
+.content{
+  border: thin solid Black;
+  box-sizing: border-box;
+  width: 300px;
+  margin: 2% 0;
+  padding: 0.4em;
+}
+
+#description{
+  font-style:italic;
+}
+.list{
+  list-style: none;
+  padding-left: 0;
+}
+ul span{
+  font-weight: bold;
+}
